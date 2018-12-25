@@ -1,0 +1,20 @@
+{
+	"id": "marble",
+	"inputs": [
+		"chisel:marble2:7:1",
+		"ore:stoneMarble:1"
+	],
+	"output": "astralsorcery:blockmarble:0:2",
+	"diggableBlocks": [
+		"minecraft:stone:3"
+	],
+	"renderBlock": "astralsorcery:blockmarble:0",
+	"validDimensopns": [-1,
+		0,
+		1
+	],
+	"maxHealth": 14.0,
+	"movementSpeed": 0.2,
+	"armorAmount": 3,
+	"digTickDelay": 600
+}

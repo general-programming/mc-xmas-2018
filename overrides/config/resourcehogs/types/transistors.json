@@ -1,0 +1,19 @@
+{
+	"id": "transistors",
+	"inputs": [
+		"opencomputers:material:6"
+	],
+	"output": "opencomputers:material:6:4",
+	"diggableBlocks": [
+		"appliedenergistics2:sky_stone_block:0"
+	],
+	"renderBlock": "opencomputers:chameliumblock:0",
+	"validDimensopns": [-1,
+		0,
+		1
+	],
+	"maxHealth": 20.0,
+	"movementSpeed": 0.4,
+	"armorAmount": 6,
+	"digTickDelay": 1000
+}
