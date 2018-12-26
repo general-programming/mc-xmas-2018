@@ -2,7 +2,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "genprog xmas pack 2018",
-  "version": "0.2.0",
+  "version": "1.0.0a",
   "author": "offbeatwitch",
   "overrides": "overrides",
   "minecraft": {
@@ -533,6 +533,11 @@
     {
       "projectID": 229876,
       "fileID": 2483393,
+      "required": true
+    },
+    {
+      "projectID": 285742,
+      "fileID": 2627587,
       "required": true
     }
   ]
