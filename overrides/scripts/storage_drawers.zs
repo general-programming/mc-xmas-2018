@@ -15,7 +15,7 @@ for tier in upgrades {
     recipes.remove(tier);
 }
 
-recipes.addShaped("ct_storage_drawers_upgrade_1", <storagedrawers:upgrade_storage:0>, [
+recipes.addShaped("ct_storage_drawers_upgrade_0", <storagedrawers:upgrade_storage:0>, [
     [<ore:obsidian>, <ore:stickTreatedWood>, <ore:obsidian>],
     [<ore:stickTreatedWood>, template, <ore:stickTreatedWood>],
     [<ore:obsidian>, <ore:gearStone>, <ore:obsidian>]
@@ -56,9 +56,9 @@ Altar.addTraitAltarRecipe("genprog:shaped/storagedrawers/altar/creative_storage_
     <liquid:ender_distillation> * 1000, <liquid:ender> * 1000,
     <extrautils2:opinium:8>, <extrautils2:opinium:8>,
     <gb:globot3>, <gb:globot3>,
-    <botania:gaiahead>, <portalgun:item_minature_black_hole>, <deepmoblearning:glitch_heart>, <botania:dice>,
+    <botania:gaiahead>, <portalgun:item_miniature_black_hole>, <deepmoblearning:glitch_heart>, <botania:dice>,
     // start of external items
     <rftools:dimensional_shard>, <rftools:infused_diamond>,
-    <minecraft:skull:5>, <extrautils2:enderlily>,
+    <minecraft:skull:5>, <extrautils2:enderlilly>,
     <botania:overgrowthseed>, <naturesaura:sky_ingot>
 ]);
