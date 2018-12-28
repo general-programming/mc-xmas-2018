@@ -1,5 +1,5 @@
 // Remove transistors; grow transistors on hogs
-recipes.remove(<opencomputers:material:6>);
+recipes.removeByRecipeName("opencomputers:material35");
 
 var transistorBucket = <resourcehogs:mud_bucket>.withTag({ResourceType: "transistors"});
 recipes.addShaped("CTTransistorHogBucket", transistorBucket, [

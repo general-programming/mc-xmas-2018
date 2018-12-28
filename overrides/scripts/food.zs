@@ -5,6 +5,7 @@ Grinder.removeRecipe(<minecraft:wheat>);
 Grinder.addRecipe(<harvestcraft:flouritem>, <minecraft:wheat>, 4);
 
 furnace.remove(<minecraft:bread>, <ore:dustWheat>);
+furnace.remove(<minecraft:bread>, <ore:foodFlour>);
 
 furnace.addRecipe(<minecraft:bread>, <ore:foodDough>, 1);
 furnace.addRecipe(<harvestcraft:toastitem>, <ore:foodBread>, 2);
